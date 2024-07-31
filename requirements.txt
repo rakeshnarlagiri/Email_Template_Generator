@@ -1,3 +1,3 @@
 streamlit
-openai migrate
+openai
 protobuf==3.20.0
