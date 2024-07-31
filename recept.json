@@ -1,0 +1,10 @@
+[
+	{
+		"recept_type":"Renewal",
+		"recept_description":"this is about renewal intimation of premium due date include all the variables"
+	},
+	{
+		"recept_type":"Premium",
+		"recept_description":"this is about a recept after paying the premium amount inclues few variables, means no due dates"
+	}
+]

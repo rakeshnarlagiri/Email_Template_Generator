@@ -1,0 +1,32 @@
+[
+  {
+    "name": "P_HiName",
+    "type": "string",
+    "context": ""
+  },
+  {
+    "name": "PD_currentSumAssured",
+    "type": "string",
+    "context": ""
+  },
+  {
+    "name": "PD_basePlanName",
+    "type": "string",
+    "context": ""
+  },
+  {
+    "name": "PD_policyNumber",
+    "type": "string",
+    "context": ""
+  },
+  {
+    "name": "PD_netDueAmount",
+    "type": "float",
+    "context": ""
+  },
+  {
+    "name": "PD_premiumDueDate",
+    "type": "date",
+    "context": ""
+  }
+]
